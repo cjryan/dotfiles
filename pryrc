@@ -18,3 +18,6 @@ notify_hook = Pry::Hooks.new.add_hook(:before_session, :notify) do
 end
 
 notify_hook.exec_hook(:before_session)
+
+#Specify the editor to use when runing 'edit' in pry:
+Pry.config.editor = 'vim'
