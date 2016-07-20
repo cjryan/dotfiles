@@ -1,0 +1,13 @@
+[user]
+	name = Chris Ryan
+	email = cryan@redhat.com
+[color]
+	ui = true
+[giggle]
+	main-window-maximized = true
+	main-window-geometry = 456x169+0+60
+	history-view-vpane-position = 799
+[push]
+	default = matching
+[core]
+	editor = vim
